@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 22B3-7AFF
+
+ Directory of C:\Users\DP's Personal\Desktop\MyGitProject
+
+10/09/2020  10:48 PM    <DIR>          .
+10/09/2020  10:48 PM    <DIR>          ..
+10/09/2020  10:48 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  112,720,240,640 bytes free
